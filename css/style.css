@@ -1,0 +1,33 @@
+body{
+background-color: rgba(243, 233, 233, 0.726);
+}
+
+.subtitle{
+    font-size: 24px;
+    font-weight: 500;
+    color: #7153d9;
+}
+
+.title{
+font-size: 72px;
+font-weight: 500;
+color: rgb(5, 7, 29);
+
+}
+
+.pp{
+color: #54545f;
+font-weight: 400;
+font-size: 24px;
+}
+
+.btn{
+border-radius: 27px;
+background: linear-gradient(135deg,#7153d9,#5435be,#4526b1 66%);
+text-decoration: none;
+padding: 15px , 30px;
+color: white;
+}
+.nav-link:hover{
+color: #4526b1;
+}
