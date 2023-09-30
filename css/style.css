@@ -1,5 +1,5 @@
 body{
-background-color: rgba(243, 233, 233, 0.726);
+background-color: #e9edf4
 }
 
 .subtitle{
@@ -30,4 +30,7 @@ color: white;
 }
 .nav-link:hover{
 color: #4526b1;
+}
+.banerr-div{
+    margin: top 130px;
 }
