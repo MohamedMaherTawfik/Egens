@@ -38,3 +38,10 @@ color: #4526b1;
     font-size: 20px;
     font-weight: 500;
 }
+
+.Sector
+{
+    margin-top: 200px;
+    background-color:#4526b1 ;
+    padding: 100px;
+}
