@@ -3,9 +3,9 @@ background-color: #e9edf4
 }
 
 .subtitle{
-    font-size: 24px;
-    font-weight: 500;
-    color: #7153d9;
+font-size: 24px;
+font-weight: 500;
+color: #7153d9;
 }
 
 .title{
@@ -32,16 +32,52 @@ color: white;
 color: #4526b1;
 }
 .banerr-div{
-    margin: top 130px;
+margin: top 130px;
 }
 .nav-link{
-    font-size: 20px;
-    font-weight: 500;
+font-size: 20px;
+font-weight: 500;
 }
 
 .Sector
 {
-    margin-top: 200px;
-    background-color:#4526b1 ;
-    padding: 100px;
+margin-top: 200px;
+background-color:#4526b1 ;
+padding: 100px;
+}
+
+.Services{
+margin-top: 200px;
+text-align: center; 
+font-size: 28px; 
+font-weight: 600;
+color: #7153d9;
+}
+
+.paragraph{
+text-align: center;
+font-size: 50px;
+font-weight: 600;
+color: black;
+}
+
+.text{
+text-align: center;
+color: rgb(39, 38, 38);
+font-size: 19px;
+}
+
+.cards{
+    box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
+}
+
+.card-link{
+    font-size: 18px;
+    font-weight: 500;
+    color: #1c1c1c;
+    margin-top: 30px;
+    display: block;
+}
+.linkk:hover{
+    color: #9893a8;
 }
